@@ -3,4 +3,4 @@ meu site de cinema online
 
 Desenvolvedores:
 - Nicoly do Prado 
--Richard Cividini
+- Richard Cividini
